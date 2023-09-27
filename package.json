@@ -1,0 +1,24 @@
+{
+  "name": "cit262-f2023",
+  "version": "1.0.0",
+  "description": "A sample Node application for CIT 262 - F2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gacanepa/cit262-f2023.git"
+  },
+  "keywords": [
+    "byui",
+    "node",
+    "cit262"
+  ],
+  "author": "Gabriel Cánepa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gacanepa/cit262-f2023/issues"
+  },
+  "homepage": "https://github.com/gacanepa/cit262-f2023#readme"
+}
